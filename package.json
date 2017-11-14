@@ -1,0 +1,20 @@
+
+{
+  "name": "chat-nodejs",
+  "version": "0.0.1",
+  "description": "Realtime chat system for AIVA Interface",
+  "main": "server.js",
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
+  "author": "Siddharth Talesra",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "gravatar": "~1.0.6",
+    "socket.io": "1.0.6"
+  }
+}
